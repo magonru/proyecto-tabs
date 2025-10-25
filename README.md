@@ -1,2 +1,2 @@
 # Proyecto Tabs
-https://github.com/magonru/proyecto-tabs
+https://roadmap.sh/projects/simple-tabs
